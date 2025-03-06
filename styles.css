@@ -1,0 +1,12 @@
+body
+{
+    background-color: wheat;
+    text-align: center;
+}
+.LeMonke
+{
+    width : 900px;
+    height : 200px;
+    border-radius: 10%;
+
+}
